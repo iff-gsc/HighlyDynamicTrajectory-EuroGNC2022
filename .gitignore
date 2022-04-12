@@ -1,0 +1,6 @@
+*.slxc
+*slprj/
+*ert_rtw
+*.slx.*
+*.mdl.*
+*.pdf

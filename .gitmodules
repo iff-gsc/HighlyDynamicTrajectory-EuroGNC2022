@@ -1,0 +1,6 @@
+[submodule "libraries/ladac"]
+	path = libraries/ladac
+	url = https://github.com/iff-gsc/LADAC.git
+[submodule "libraries/ladac-examples-data"]
+	path = libraries/ladac-examples-data
+	url = https://github.com/iff-gsc/LADAC-Examples-Data.git
